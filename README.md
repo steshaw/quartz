@@ -5,7 +5,7 @@ Quartz is an interpreted, statically typed programming language with Haskell bac
 
 ## Examples
 
-```
+```rust
 func main() {
   println("Hello, World!");
 }
